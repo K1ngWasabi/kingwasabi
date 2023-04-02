@@ -39,13 +39,17 @@ body {
 	align-items: center;
 }
 
-.title {
+img{
+	width: 600px;
+}
+
+/*.title {
 		font-family: 'Poiret One', cursive;
 	font-size: 4rem;
   margin-bottom: .5rem;
 	width: 100%;
 	text-align: center;
-}
+}*/
 
 .sub-title {
   border-top: .1rem solid #fff;
